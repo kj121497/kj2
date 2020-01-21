@@ -3,6 +3,7 @@
 ### DH 150 Assigment 2 by Kimberly Jimenez
 
 ---
+### Purpose of Usability Testing
 Include: A paragraph explaining the purpose of UT, how and what you want to test especially based on the findings of heuristic evaluation.
 
 ---
