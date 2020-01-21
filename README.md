@@ -14,7 +14,7 @@ Please click [here](https://docs.google.com/forms/d/e/1FAIpQLSdwEpF11FQU9RqM0aI8
 ---
 ### Pilot Usability Testing Video
 
-Please click here to view the video.
+Please click [here](https://www.youtube.com/watch?v=sOBqaDtVc2A) to view the video.
 
 ---
 ### Information Learned from Pilot Test
